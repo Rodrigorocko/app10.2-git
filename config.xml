@@ -2,15 +2,15 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlznsgap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.app7"
+id = "com.phonegap.app10"
 version ="1.0.0">
 
-<name>App7 Desliza Hacia La Derecha e Izquierda</name>
+<name>App10 Proyecto Final de DAM</name>
 
 <description>
-Aplicación que realiza el swipe o deslizamiento en el dispositivo</description>
+App 10 Bases de datos simples y avanzadas</description>
 
-<author href= "https://build.phonegap.com" email="rodrigomartinezgalindo1g@gmail.com">
+<author href="https://build.phonegap.com" email="rodrigomartinezgalindo1g@gmail.com">
 Martinez Galindo Rodrigo
 </author>
 
